@@ -5,7 +5,8 @@ my-website
         <meta charset="utf-8">
         <title>Index.html</title>
     </head>
-    
+    	
+
     <body>
     <h1>What is html?</h1>
         <img src="https://images.app.goo.gl/uffzKBb8a5f7AKRD7" width="200" length="100">
