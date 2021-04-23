@@ -25,5 +25,4 @@
 <li>HTML 4 - December 18, 1997/HTML 4.0 was published as a W3C Recommendation.</li>
 <li>HTML 5 - October 28, 2014/HTML5 was published as a W3C Recommendation.</li>
     <a href="accessibility.html" > - Digital Signature </a>
-    <p>hello i am manuel</p>
 </html>
