@@ -11,5 +11,6 @@
     <p>A computer program is a set of instructions that instruct the CPU to perform a defined task. We can write computer programs using various programming languages. Furthermore, a programming paradigm is a way of categorizing a programming language depending on its features. Two such paradigms are structured and object oriented programming.
 </p>
     <img src="https://pediaa.com/wp-content/uploads/2019/06/Difference-Between-Structured-and-Object-Oriented-Programming-Comparison-Summary.jpg" width="200" length="100">
+    <h1></h1>
   </body>
   </html>
