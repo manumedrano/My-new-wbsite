@@ -7,6 +7,13 @@
     	
 <title>Index.html</title> 
     <body>
+    <style>
+        body{
+        background-color: rgb(255, 234, 0);
+        font-size: 20px;
+        margin: 4em;
+        }
+    </style>
     <h1>What is html?</h1>
         <img src="https://images.app.goo.gl/pJSagvveVXHSnQcL9" width="200" length="100">
 <p><strong>Hypertext Markup Language</strong> (HTML) is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.</p>
