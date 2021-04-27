@@ -35,7 +35,7 @@
 <li>HTML 5 - October 28, 2014/HTML5 was published as a W3C Recommendation.</li>
 <h4><p><strong>Clicking tihis link you can know more about accessibility standards:</strong></p></4>
     <a href="accessibility.html" > - Accessibility Standards </a>
-   <h5><a href="Orientedvsstructuredprograming.md" > - Oriented vs structured programing </a></h5>
+   <h5><a href="Orientedvsstructuredprograming.html" > - Oriented vs structured programing </a></h5>
    <h6><a href="Internet-Security.md" > - Internet-Security </a></h6>
    <h7><a href="Digitale-signature.md" > - Digitale signature </a></h7>
 </html>
