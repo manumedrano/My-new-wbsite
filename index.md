@@ -9,9 +9,12 @@
     <body>
     <style>
         body{
-        background-color: rgb(255, 234, 0);
         font-size: 20px;
         margin: 4em;
+        }
+        h1{
+        font-weight: 500;
+        text-intet: 8mm;
         }
     </style>
     <h1>What is html?</h1>
