@@ -1,6 +1,6 @@
 <style>
    img{
-   margin-left: 15em;
+   margin-left: 13em;
    }
    </style>
    <h1><strong>What is the Difference Between Structured and Object Oriented Programming?</strong></h1>
