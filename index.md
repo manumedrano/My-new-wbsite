@@ -46,7 +46,8 @@
     <a href="accessibility.html" > - Accessibility Standards </a>
    <h5><p><strong>Clicking tihis link you can know more about oriented and structured programing:</strong></p></h5>
     <a href="programing.html" > - Oriented vs structured programing </a>
-   <h6><p><strong>Clicking tihis link you can know more about oriented and structured programing:</strong></p></h6>
+   <h6><p><strong>Clicking tihis link you can know more about Internet security:</strong></p></h6>
     <a href="Internet-Security.html" > - Internet-Security </a>
-   <h7><a href="Digitale-signature.html" > - Digitale signature </a></h7>
+   <h7><p><strong>Clicking tihis link you can know more about Internet security:</strong></p></h7>
+    <a href="Digitale-signature.html" > - Digitale signature </a>
 </html>
