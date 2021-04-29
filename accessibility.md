@@ -19,7 +19,7 @@ have since been superseded by WCAG 2.0.</p>
       <p>WCAG 1.0 consists of 14 guidelines—each of which describes a general principle of
 accessible design. Each guideline covers a basic theme of web accessibility and is
 associated with one or more checkpoints that describe how to apply that guideline to
-particular webpage features.<p/>
+particular webpage features.</p>
       <li>Guideline 1: Provide equivalent alternatives to auditory and visual content</li>
       <li>Guideline 2: Don’t rely on colour alone</li>
       <li>Guideline 3: Use markup and style sheets, and do so properly</li>
