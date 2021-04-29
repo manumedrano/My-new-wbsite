@@ -47,9 +47,12 @@
     <br><br>
    <p><strong>Clicking tihis link you can know more about oriented and structured programing:</strong>
     <a href="programing.html" > - Oriented vs structured programing </a>
+    <br><br>
    <p><strong>Clicking tihis link you can know more about Internet security:</strong></p>
     <a href="Internet-Security.html" > - Internet-Security </a>
+     <br><br>
    <p><strong>Clicking tihis link you can know more about how to create a digital signature:</strong></p>
     <a href="Digitale-signature.html" > - Digitale signature </a>
+     <br><br>
     <h8><p>If you have any questions you can ask me on my email, manumedrharo@gmail.com, or visit us in the IES La Flota:</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3144.1586966357086!2d-1.1248993844500192!3d37.99675870712912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd63823dc8313c85%3A0xe767e46003a0fa0f!2sIES%20La%20Flota!5e0!3m2!1ses!2ses!4v1619596529519!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></h8>
 </html>
