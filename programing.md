@@ -1,3 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Index.html</title>
+    </head>
+    	
+<title>Index.html</title> 
+    <body>
 <style>
    img{
    margin-left: 10em;
@@ -16,5 +25,7 @@
     <p>Object oriented programming allows the programmer to represent real-world scenarios using objects. An object is any entity that has states and behaviours. States represent the attributes or data of an object, whereas the methods represent the behaviours of objects. Student, Employee, Book etc. are objects. These objects interact with other objects by passing messages. Furthermore, a class is a blueprint for creating an object. It is necessary to have a class to create objects. For example, to create an Employee object, there should be an Employee class.</p>
     <img src="https://pediaa.com/wp-content/uploads/2019/06/Difference-Between-Structured-and-Object-Oriented-Programming_Figure-2.png" width="250" length="150">
     <p>Overall, structured and object oriented programming are two major programming paradigms. The main difference between structured and object oriented programming is that structured programming helps to develop a program using a set of modules or functions while object oriented programming helps to construct a program using a set of objects and their interactions.</p>
+    </body>
  
+ </html>
  
