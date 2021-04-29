@@ -42,7 +42,7 @@
 <li>HTML 3 - January 14, 1997/HTML 3.2 was published as a W3C Recommendation.</li>
 <li>HTML 4 - December 18, 1997/HTML 4.0 was published as a W3C Recommendation.</li>
 <li>HTML 5 - October 28, 2014/HTML5 was published as a W3C Recommendation.</li>
-<h4><p><strong>Clicking tihis link you can know more about accessibility standards:</strong></p></h4>
+<p><strong>Clicking tihis link you can know more about accessibility standards:</strong></p>
     <a href="accessibility.html" > - Accessibility Standards </a>
    <p><strong>Clicking tihis link you can know more about oriented and structured programing:</strong>
     <a href="programing.html" > - Oriented vs structured programing </a>
