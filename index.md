@@ -45,7 +45,7 @@
 <p><strong>Clicking tihis link you can know more about accessibility standards:</strong></p>
     <a href="accessibility.html" > - Accessibility Standards </a>
     <br><br>
-   <p><strong>Clicking tihis link you can know more about oriented and structured programing:</strong>
+   <p><strong>Clicking tihis link you can know more about oriented and structured programing:</strong></p>
     <a href="programing.html" > - Oriented vs structured programing </a>
     <br><br>
    <p><strong>Clicking tihis link you can know more about Internet security:</strong></p>
