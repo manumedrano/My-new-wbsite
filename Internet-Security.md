@@ -8,6 +8,36 @@
 <title>Internet-Security.html</title> 
 
 <body>
+         <style>
+        body{
+        font-size: 20px;
+        margin: 4em;
+        }
+        h1{
+        font-weight: 500;
+        text-intet: 8mm;
+        text-decoration: underline;
+        }
+         h2{
+        font-weight: 500;
+        text-intet: 8mm;
+         text-decoration: underline;
+        }
+         h3{
+        font-weight: 500;
+        text-intet: 8mm;
+         text-decoration: underline;
+        } 
+        #hopper-links{
+    background: rgb(209,245,255)
+    border: 2px dashed blue;
+    font-size: 20px;
+    }
+    a:link{
+    color: rgb(0,0,0);
+    }
+    a:hover, a:active, a:focus {
+    background-color: rgb(0,255,255);
      <div id="hopper-links">
     <a href="accessibility.html" > - Accessibility Standards </a>
     <a href="programing.html" > - Oriented vs structured programing </a>
