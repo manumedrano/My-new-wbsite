@@ -61,6 +61,8 @@
 <li>Impact on System:	In Active Attack, system is damaged.	In Passive Attack, system has no impact.</li>
 <li>Victim:	Victim gets informed in active attack.	Victim does not get informed in passive attack.</li>
 <li>System Resources:	System Resources can be changed in active attack.	System Resources are not changed in passive attack.</li>
+<h3>Malware</h3>
+<p>"Malware" is short for malicious software and used as a single term to refer to virus, spy ware, worm etc. Malware is designed to cause damage to a stand-alone computer or a networked pc. So wherever a malware term is used it means a program which is designed to damage your computer it may be a virus, worm or Trojan.</p>
 
   </body>
   </html>
