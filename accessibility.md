@@ -26,6 +26,12 @@
          text-decoration: underline;
         } 
     </style>
+         <div id="hopper-links">
+    <a href="accessibility.html" > - Accessibility Standards </a>
+    <a href="programing.html" > - Oriented vs structured programing </a>
+    <a href="Internet-Security.html" > - Internet-Security </a>
+    <a href="Digitale-signature.html" > - Digitale signature </a>
+    </div>
       <h1>Web Content Accessibility Guidelines</h1>
       <p>In 1999 the Web Accessibility Initiative, a project by the World Wide Web
 Consortium (W3C), published the Web Content Accessibility Guidelines WCAG 1.0.</p>
