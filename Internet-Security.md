@@ -16,17 +16,17 @@
         h1{
         font-weight: 500;
         text-intet: 8mm;
-        text-decoration: underline;
+        text-decoration: underline
         }
          h2{
         font-weight: 500;
         text-intet: 8mm;
-         text-decoration: underline;
+         text-decoration: underline
         }
          h3{
         font-weight: 500;
         text-intet: 8mm;
-         text-decoration: underline;
+         text-decoration: underline
         } 
         #hopper-links{
     background: rgb(209,245,255)
