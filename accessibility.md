@@ -5,6 +5,27 @@
         <title>Accessibility standrds</title>
     </head>
     <body>
+         <style>
+        body{
+        font-size: 20px;
+        margin: 4em;
+        }
+        h1{
+        font-weight: 500;
+        text-intet: 8mm;
+        text-decoration: underline;
+        }
+         h2{
+        font-weight: 500;
+        text-intet: 8mm;
+         text-decoration: underline;
+        }
+         h3{
+        font-weight: 500;
+        text-intet: 8mm;
+         text-decoration: underline;
+        } 
+    </style>
       <h1>Web Content Accessibility Guidelines</h1>
       <p>In 1999 the Web Accessibility Initiative, a project by the World Wide Web
 Consortium (W3C), published the Web Content Accessibility Guidelines WCAG 1.0.</p>
