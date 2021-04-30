@@ -30,10 +30,17 @@
         text-intet: 8mm;
          text-decoration: underline;
         } 
-   </style>
+    {
+    a:hover, a:active, a:focus {
+    background-color: rgb(0,255,255);
+    }
+    </style>
+    <div id="hopper-links">
     <a href="accessibility.html" > - Accessibility Standards </a>
     <a href="programing.html" > - Oriented vs structured programing </a>
     <a href="Internet-Security.html" > - Internet-Security </a>
+    <a href="Digitale-signature.html" > - Digitale signature </a>
+    </div>
    <h1><strong>What is the Difference Between Structured and Object Oriented Programming?</strong></h1>
    
   <p>The <strong>main difference</strong> between structured and object oriented programming is that <strong>structured programming allows developing a program using a set of modules or functions, while object oriented programming allows constructing a program using a set of objects and their interactions.</strong></p>
