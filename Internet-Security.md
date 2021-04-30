@@ -71,5 +71,13 @@
 <p>Virus is a program written to enter to your computer and damage/alter your files/data. A virus might corrupt or delete data on your computer. Viruses can also replicate themselves. A computer Virus is more dangerous than a computer worm as it makes changes or deletes your files while worms only replicates itself with out making changes to your files/data. Examples of virus are: W32.Sfc!mod, ABAP.Rivpas.A, Accept.3773</p>
 <p><strong>Spyware</strong></p>
 <p>Spyware is a type of program that is installed with or without your permission on your personal computers to collect information about users, their computer or browsing habits tracks each and everything that you do without your knowledge and send it to remote user. It also can download other malicious programs from internet and install it on the computer.Spyware works like adware but is usually a separate program that is installed unknowingly when you install another freeware type program or application.</p>
+<h4>What is Network Security?</h4>
+<p>Network security is any practice or tool designed and implemented to secure a network and its data. It includes software, hardware, and cloud solutions. Effective network security tools stop a wide range of cyberattacks, and prevent attacks spreading throughout the network in case of a data breach.</p>
+<p>To deter cyberattacks and hacking attempts, a total of two types of network security components can be called upon – <strong>hardwares/strong> and <strong>software</strong>.</p>
+    To deter cyberattacks and hacking attempts, a total of three types of network security components can be called upon – hardware, software, and cloud security components.
+<p>Hardware components include servers and devices that perform an array of security operations within a network. Hardware components can be set up in two ways:</p>
+<li>Out of the path of network traffic (“out-of-line”): Operating as a separate entity from network traffic, out-of-line security appliances are tasked with monitoring traffic and raising alerts when they detect malicious data.</li>
+<li>In the path of network traffic (“in-line”): A more popular option of the two, in-line hardware appliances are tasked with directly blocking data packets the moment they run into potential threats.</li>
+<p>Security software components are installed on devices across the network, providing added detection capabilities and threat remediation. The far most common form of software network security components are antivirus applications.</p>
   </body>
   </html>
