@@ -47,7 +47,7 @@ described as AA or Double-A.</li>
 some groups to access the Web content. Conformance to this level is described
 as AAA or Triple-A.</li>
         <p><strong>WCAG Samurai</strong></p>
-        <p>n February 2008, The WCAG Samurai, a group of developers independent of the W3C,
+        <p>February 2008, The WCAG Samurai, a group of developers independent of the W3C,
 published corrections for, and extensions to, the WCAG 1.0.</p> 
         <h3>WCAG 2.0</h3>
         <p>WCAG 2.0 was published as a W3C Recommendation on 11 December 2008. It consists of
