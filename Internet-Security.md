@@ -63,6 +63,13 @@
 <li>System Resources:	System Resources can be changed in active attack.	System Resources are not changed in passive attack.</li>
 <h3>Malware</h3>
 <p>"Malware" is short for malicious software and used as a single term to refer to virus, spy ware, worm etc. Malware is designed to cause damage to a stand-alone computer or a networked pc. So wherever a malware term is used it means a program which is designed to damage your computer it may be a virus, worm or Trojan.</p>
-
+<p><strong>Worms</strong></p>
+<p>Worms are malicious programs that make copies of themselves again and again on the local drive, network shares, etc. The only purpose of the worm is to reproduce itself again and again. It doesn’t harm any data/file on the computer. Unlike a virus, it does not need to attach itself to an existing program. Worms spread by exploiting vulnerabilities in operating systems. Examples of worm are: W32.SillyFDC.BBY, Packed.Generic.236, W32.Troresba.</p>
+<p><strong>Trojans</strong></p>
+<p>A Trojan horse is not a virus. It is a destructive program that looks as a genuine application. Unlike viruses, Trojan horses do not replicate themselves but they can be just as destructive. Trojans also open a backdoor entry to your computer which gives malicious users/programs access to your system, allowing confidential and personal information to be theft. Example: - JS.Debeski.Trojan.</p>
+<p><strong>Virus</strong></p>
+<p>Virus is a program written to enter to your computer and damage/alter your files/data. A virus might corrupt or delete data on your computer. Viruses can also replicate themselves. A computer Virus is more dangerous than a computer worm as it makes changes or deletes your files while worms only replicates itself with out making changes to your files/data. Examples of virus are: W32.Sfc!mod, ABAP.Rivpas.A, Accept.3773</p>
+<p><strong>Spyware</strong></p>
+<p>Spyware is a type of program that is installed with or without your permission on your personal computers to collect information about users, their computer or browsing habits tracks each and everything that you do without your knowledge and send it to remote user. It also can download other malicious programs from internet and install it on the computer.Spyware works like adware but is usually a separate program that is installed unknowingly when you install another freeware type program or application.</p>
   </body>
   </html>
