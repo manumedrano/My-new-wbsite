@@ -11,6 +11,25 @@
    img{
    margin-left: 10em;
    }
+        body{
+        font-size: 20px;
+        margin: 4em;
+        }
+        h1{
+        font-weight: 500;
+        text-intet: 8mm;
+        text-decoration: underline;
+        }
+         h2{
+        font-weight: 500;
+        text-intet: 8mm;
+         text-decoration: underline;
+        }
+         h3{
+        font-weight: 500;
+        text-intet: 8mm;
+         text-decoration: underline;
+        } 
    </style>
    <h1><strong>What is the Difference Between Structured and Object Oriented Programming?</strong></h1>
    
