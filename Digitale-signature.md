@@ -4,6 +4,12 @@
         <meta charset="utf-8">
         <title>Digitale signature</title>
     </head>
+     <div id="hopper-links">
+    <a href="accessibility.html" > - Accessibility Standards </a>
+    <a href="programing.html" > - Oriented vs structured programing </a>
+    <a href="Internet-Security.html" > - Internet-Security </a>
+    <a href="Digitale-signature.html" > - Digitale signature </a>
+    </div>
   <h1>What is a digitale signature?</h1>
   <p>The digital signature, in Spain electronic DNI, is a document issued by the General Directorate of the Police (Ministry of the Interior). In addition to physically proving the personal identity of its owner, it allows:</p>
   <li><strong>Electronically and unequivocally prove your identity.</strong></li>
