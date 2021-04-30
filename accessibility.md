@@ -34,7 +34,7 @@ particular webpage features.</p>
       <li>Guideline 12: Provide context and orientation information</li>
       <li>Guideline 13: Provide clear navigation mechanisms</li>
       <li>Guideline 14: Ensure that documents are clear and simple</li>
-         <br><br>
+         <br>
       <p>Each of the in total 65 WCAG 1.0 checkpoints has an assigned priority level based on the
 checkpoint's impact on accessibility:</p>  
       <li>Priority 1: Web developers must satisfy these requirements, otherwise it will be
