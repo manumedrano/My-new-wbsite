@@ -79,5 +79,13 @@
 <li>Out of the path of network traffic (“out-of-line”): Operating as a separate entity from network traffic, out-of-line security appliances are tasked with monitoring traffic and raising alerts when they detect malicious data.</li>
 <li>In the path of network traffic (“in-line”): A more popular option of the two, in-line hardware appliances are tasked with directly blocking data packets the moment they run into potential threats.</li>
 <p>Security software components are installed on devices across the network, providing added detection capabilities and threat remediation. The far most common form of software network security components are antivirus applications.</p>
+<h5>Network protocols</h5>
+<p>Network protocols are a set of rules, conventions, and data structures that dictate how devices exchange data across networks. In other words, network protocols can be equated to languages that two devices must understand for seamless communication of information, regardless of their infrastructure and design disparities.</p>
+<p><strong>HTTP: Hyper Text Transfer Protocol</strong></p>
+<p>HTTP is an application layer protocol used for distributed, collaborative, and hypermedia information systems. It works on a client-server model, where the web browser acts as the client. Data such as text, images, and other multimedia files are shared over the World Wide Web using HTTP. As a request and response type protocol, the client sends a request to the server, which is then processed by the server before sending a response back to the client.</p>
+
+<p>HTTP is a stateless protocol, meaning the client and server are only aware of each other while the connection between them is intact. After that, both the client and server forget about each other's existence. Due to this phenomenon, the client and server can't both retain information between requests.</p>
+<p><strong>IPv6: Internet Protocol version 6</strong><p>
+    <p>IPv6 is the latest version of the Internet Protocol, a network layer protocol that possesses addressing and control information for enabling packets to be routed in the network. IPv6 was created to deal with IPv4 exhaustion. It increases the IP address size from 32 bits to 128 bits to support more levels of addressing.</p>
   </body>
   </html>
