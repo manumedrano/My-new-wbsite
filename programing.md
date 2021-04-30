@@ -9,7 +9,7 @@
     <body>
 <style>
    img{
-   margin-left: 10em;
+   margin-left: 8em;
    }
         body{
         font-size: 20px;
