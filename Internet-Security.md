@@ -8,6 +8,12 @@
 <title>Internet-Security.html</title> 
 
 <body>
+     <div id="hopper-links">
+    <a href="accessibility.html" > - Accessibility Standards </a>
+    <a href="programing.html" > - Oriented vs structured programing </a>
+    <a href="Internet-Security.html" > - Internet-Security </a>
+    <a href="Digitale-signature.html" > - Digitale signature </a>
+    </div>
     <h1>What is internet security?</h1>
     <p>Internet security are all those precautions that are taken to protect all the elements that are part of the network, such as infrastructure and information, which is usually the most affected by cyber criminals.</p>
     <p>Computer security is responsible for creating methods, procedures and standards that are able to identify and eliminate vulnerabilities in information and physical equipment, such as computers.</p>
