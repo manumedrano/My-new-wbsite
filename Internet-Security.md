@@ -36,10 +36,12 @@
         font-weight: 500;
         text-intet: 8mm;
         text-decoration: underline;
+             }
          h6{
         font-weight: 500;
         text-intet: 8mm;
-        text-decoration: underline;   
+        text-decoration: underline; 
+             }
         #hopper-links{
     background: rgb(209,245,255)
     border: 2px dashed blue;
@@ -104,6 +106,6 @@
     <p>A Certificate Authority (CA) issues digital certificates that contain a public key and the identity of the owner. The matching private key is not made available publicly, but kept secret by the end user who generated the key pair. The certificate is also a confirmation or validation by the CA that the public key contained in the certificate belongs to the person, organization, server or other entity noted in the certificate. A CA's obligation in such schemes is to verify an applicant's credentials, so that users and relying parties can trust the information in the CA's certificates. CAs use a variety of standards and tests to do so. In essence, the Certificate Authority is responsible for saying "yes, this person is who they say they are, and we, the CA, verify that".
 If the user trusts the CA and can verify the CA's signature, then he can also verify that a certain public key does indeed belong to whoever is identified in the certificate. Browsers maintain list of well known CAs root certificates.  Aside from commercial CAs, some providers issue digital certificates to the public at no cost. Large institutions or government entities may have their own CAs.
 </p>
-    
   </body>
+  
   </html>
