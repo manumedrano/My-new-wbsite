@@ -32,6 +32,7 @@
         font-weight: 500;
         text-intet: 8mm;
         text-decoration: underline;
+             }
          h5{
         font-weight: 500;
         text-intet: 8mm;
