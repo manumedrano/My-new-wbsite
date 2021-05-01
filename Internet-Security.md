@@ -52,6 +52,7 @@
     }
     a:hover, a:active, a:focus {
     background-color: rgb(0,255,255);
+             }
     </style>
      <div id="hopper-links">
     <a href="accessibility.html" > - Accessibility Standards </a>
