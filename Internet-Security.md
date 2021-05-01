@@ -36,6 +36,10 @@
         font-weight: 500;
         text-intet: 8mm;
         text-decoration: underline;
+         h6{
+        font-weight: 500;
+        text-intet: 8mm;
+        text-decoration: underline;   
         #hopper-links{
     background: rgb(209,245,255)
     border: 2px dashed blue;
