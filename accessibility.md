@@ -38,7 +38,6 @@
     }     
     </style>
          <div id="hopper-links">
-    <a href="accessibility.html" > - Accessibility Standards </a>
     <a href="programing.html" > - Oriented vs structured programing </a>
     <a href="Internet-Security.html" > - Internet-Security </a>
     <a href="Digitale-signature.html" > - Digitale signature </a>
