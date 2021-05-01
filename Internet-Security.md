@@ -28,6 +28,14 @@
         text-intet: 8mm;
          text-decoration: underline;
         } 
+         h4{
+        font-weight: 500;
+        text-intet: 8mm;
+        text-decoration: underline;
+         h5{
+        font-weight: 500;
+        text-intet: 8mm;
+        text-decoration: underline;
         #hopper-links{
     background: rgb(209,245,255)
     border: 2px dashed blue;
@@ -87,5 +95,6 @@
 <p>HTTP is a stateless protocol, meaning the client and server are only aware of each other while the connection between them is intact. After that, both the client and server forget about each other's existence. Due to this phenomenon, the client and server can't both retain information between requests.</p>
 <p><strong>IPv6: Internet Protocol version 6</strong><p>
     <p>IPv6 is the latest version of the Internet Protocol, a network layer protocol that possesses addressing and control information for enabling packets to be routed in the network. IPv6 was created to deal with IPv4 exhaustion. It increases the IP address size from 32 bits to 128 bits to support more levels of addressing.</p>
+    
   </body>
   </html>
