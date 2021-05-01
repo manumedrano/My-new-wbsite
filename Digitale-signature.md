@@ -13,11 +13,13 @@
         font-weight: 500;
         text-intet: 8mm;
         text-decoration: underline;
+        color: rgb(0,255,255);
         }
          h2{
         font-weight: 500;
         text-intet: 8mm;
-         text-decoration: underline;
+        text-decoration: underline;
+        color: rgb(0,255,255);
         }
         #hopper-links{
     background: rgb(209,245,255)
